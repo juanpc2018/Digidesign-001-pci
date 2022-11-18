@@ -59,7 +59,7 @@ probably wanted more profits "damage to sell again." programmed obsolescense. </
 Vienna Ensemble Pro 5 allows to use newer plugins in other faster machines, virtual machines. </br>
 2 machine setup works ok direct 1Gbe FullDuplex, fixed IPv4. </br>
 3 or more machines require a powerful & fast Switch / Router, like MikroTik csr109 or better, No Wireless. <br>
-Bridge lowers CPU performance too much. </p>
+Network SW Bridge lowers CPU performance too much. </p>
 
 Digi001 Windows Audio WDM drivers v6.4 Do Not Work. </br>
 Avid / Digidesign driver v7.0 does Not work on Windows, OSX seem to still support Digi001, unknown / untested. </p>
