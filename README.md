@@ -3,7 +3,10 @@
 Its an old pci audio interface, standard 18-channel Rack Mount Configuration, </br>
 2-Mic pres with Hi-Z input +Phantom Power, 8 channel line i/o 1/4" TRS, ADAT, S/pdif. </p>
 
-does Not have Alsa drivers, </br>
+HDX is the Best, No doubt, but Not everybody can buy HDX. </br>
+this guide is to avoid e-waste. </p>
+
+Digi001 does Not have Alsa drivers, </br>
 but works ok on Windows7x32, and has decent sound. </p>
 
 oldschooldaw.com forum web site is 404, had very important links. </p>
