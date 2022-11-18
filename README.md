@@ -52,7 +52,7 @@ probably wanted more profits "damage to sell again." </p>
 
 Vienna Ensemble Pro 5 allows to use newer plugins in other faster machines, </br>
 2 machine setup works ok direct 1Gbe FullDuplex, fixed IPv4. </br>
-3 or more machines require a powerful & fast Switch / Router, like MikroTik csr109 or better. <br>
+3 or more machines require a powerful & fast Switch / Router, like MikroTik csr109 or better, No Wireess. <br>
 Bridge lowers CPU performance too much. </p>
 
 Digi001 Windows Audio WDM drivers v6.4 Do Not Work. </br>
