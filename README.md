@@ -61,6 +61,6 @@ Vienna Ensemble Pro 5 allows to use newer plugins in other faster machines, </br
 Bridge lowers CPU performance too much. </p>
 
 Digi001 Windows Audio WDM drivers v6.4 Do Not Work. </br>
-Avid / Digidesign drivers 7.0 does Not work on Windows, OSX seem to still support Digi001, unknown / untested. </p>
+Avid / Digidesign driver v7.0 does Not work on Windows, OSX seem to still support Digi001, unknown / untested. </p>
 
 P.D. System Clock Needs to be between 2010 & 2016 or wont work. 
