@@ -21,7 +21,12 @@ havent Tested ReactOS, but should work ok. https://reactos.org/ </p>
 
 Only intel 975x boards work, i tested X58, tweaked almost everything, </br>
 problem is related to ACPI, AHCI / MPS Tables v1.4 v1.1 </br>
-There was a strange change between 975x and X58 boards, XP and W7. </p>
+There was a strange change between 975x and X58 boards, XP and W7. </br>
+for example: </br>
+Lynx AES16 pci install ok in W7x64 driver 19g, </br>
+but driver 20 does Not install on W8.1x64 IF board does Not have True / Complete MPS Tables 1.4 in the Bios </br>
+Only msi and ASRock has, Asus does Not, and Gigabyte is unknown. </br>
+because of that Maybe X58 Asus Rampage 2 Extreme could work with Digi001 + W7x32, Maybe. </p>
 
 Q6600 CPU works ok, 2.8Ghz x9 https://www.cpu-world.com/benchmarks/Intel/Core_2_Quad_Q6600.html </p>
 
