@@ -7,7 +7,8 @@ HDX is the Best, No doubt, but Not everybody can buy HDX. </br>
 this guide is to avoid e-waste. </p>
 
 Digi001 does Not have Alsa drivers, </br>
-but works ok on Windows7x32, and has decent sound. </p>
+but works ok on Windows7x32, and has decent sound. </br>
+does Not have the latest Ultra Low Latency AD/DA ICs from AKM, but works.</p>
 
 oldschooldaw.com forum web site is 404, had very important links. </p>
 
