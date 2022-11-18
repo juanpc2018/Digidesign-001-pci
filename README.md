@@ -3,7 +3,7 @@
 Its an old pci audio interface, standard 18-channel Rack Mount Configuration, </br>
 2-Mic pres with Hi-Z input +Phantom Power, 8 channel line i/o 1/4" TRS, ADAT, S/pdif + headphone. </p>
 
-Newer Avid HDX is the Best, Hands Down, No doubt, but Not everybody can have HDX. </br>
+Newer Avid HDX is the Best, Hands Down, No doubt, but Not everybody can afford HDX. </br>
 This guide is to Avoid e-Waste. </p>
 
 Digi001 does Not have Alsa drivers = No Linux, </br>
