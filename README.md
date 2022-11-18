@@ -68,6 +68,7 @@ Audio Plugins prefer a Faster Corevs. many slower cores. </br>
 a single CPU 16-Core AMD Opteron 6386 is Not recommended vs. dual faster 6328 8-core Opteron. </br>
 https://www.cpu-world.com/CPUs/Bulldozer/AMD-Opteron%206386%20SE%20-%20OS6386YETGGHK.html </br>
 Windows allow to limit CPU cores in msconfig, limiting 6386 to half the cores would allow to run Turbo all the time with large supermicro heatsink. </br>
-Area51 blog has an Optional Bios that allows to Overclock some AMD Opteron boards, but requires WaterCooling. </br>
+Area51 blog has an Optional Bios that allows to Overclock some AMD Opteron boards, but requires WaterCooling, Untested. </br>
+Maybe Tyan boards like S8232 would requires an older Bios FW that allows to change MPS tables 1.4 to 1.1 Untested. </br>
 Older intel Q6600 775 and AMD Opteron 61xx does Not have SSE4.1 instructions, required for newer multimedia software, example: Avid MediaComposer v8.4</br>
-Proxmox and QEMU allow PCI passthough, but untested.</p>
+Proxmox and QEMU allow PCI passthough, but untested. </p>
