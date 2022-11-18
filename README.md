@@ -70,4 +70,4 @@ https://www.cpu-world.com/CPUs/Bulldozer/AMD-Opteron%206386%20SE%20-%20OS6386YET
 Windows allow to limit CPU cores in msconfig, limiting 6386 to half the cores would allow to run Turbo all the time with large supermicro heatsink. </br>
 Area51 blog has an Optional Bios that allows to Overclock some AMD Opteron boards, but requires WaterCooling. </br>
 Older intel Q6600 775 and AMD Opteron 61xx does Not have SSE4.1 instructions, required for newer multimedia software, example: Avid MediaComposer v8.4</br>
-Promox and QEMU allow PCI passthough, but untested.</p>
+Proxmox and QEMU allow PCI passthough, but untested.</p>
