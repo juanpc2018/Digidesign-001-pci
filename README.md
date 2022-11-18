@@ -65,7 +65,7 @@ Digi001 Windows Audio WDM drivers v6.4 Do Not Work. </br>
 Avid / Digidesign driver v7.0 does Not work on Windows, OSX seem to still support Digi001, unknown / untested. </p>
 
 P.D. System Clock Needs to be between 2010 & 2016 or wont work. </br>
-Audio Plugins prefer a Faster Corevs. many slower cores. </br>
+Audio Plugins prefer Faster Cores vs. many slower cores. </br>
 a single CPU 16-Core AMD Opteron 6386 is Not recommended vs. dual faster 6328 8-core Opteron. </br>
 https://www.cpu-world.com/CPUs/Bulldozer/AMD-Opteron%206386%20SE%20-%20OS6386YETGGHK.html </br>
 Windows allow to limit CPU cores in msconfig, limiting 6386 to half the cores would allow to run Turbo all the time with large supermicro heatsink. </br>
