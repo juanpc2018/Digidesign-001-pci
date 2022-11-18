@@ -20,4 +20,9 @@ problem is related to ACPI, AHCI / MPS Tables v1.4 v1.1
 
 Q6600 CPU works ok,
 
-the idea of installing Windows7 is to use Vienna Ensemble Pro 5 or 5
+the idea of installing Windows7 is to use Vienna Ensemble Pro 5 or 5 or FXMax Teleport
+http://fx-max.com/purchase.html
+
+http://fx-max.com/fxt/
+
+
