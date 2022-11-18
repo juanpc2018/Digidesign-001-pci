@@ -56,7 +56,7 @@ tested same XP with same HD 6570 pcie on X58 board and did Not worked at 2500x14
 Older 975x + XP was better designed, dont know why they changed/damaged that, </br>
 probably wanted more profits "damage to sell again." programmed obsolescense. </p>
 
-Vienna Ensemble Pro 5 allows to use newer plugins in other faster machines, </br>
+Vienna Ensemble Pro 5 allows to use newer plugins in other faster machines, virtual machines. </br>
 2 machine setup works ok direct 1Gbe FullDuplex, fixed IPv4. </br>
 3 or more machines require a powerful & fast Switch / Router, like MikroTik csr109 or better, No Wireless. <br>
 Bridge lowers CPU performance too much. </p>
