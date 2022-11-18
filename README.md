@@ -40,6 +40,7 @@ FXMax Teleport works ok in Xp, but Not Newer Nuendo 5 / Cubase 4/6 Nor Newer VST
 havent Tested Reapoer, VSTHost, or any other. </br>
 http://fx-max.com/purchase.html </br>
 http://fx-max.com/fxt/ </br>
+similar happens with fxpansion VST to RTAS v2.1 adapter, Only works with ProTools9, Not PT10. </p>
 
 Recommended GPU: AMD HD6590 PCIe </br>
 drivers 14.4 for Xp 32-Bits on Windows7x32, </br>
