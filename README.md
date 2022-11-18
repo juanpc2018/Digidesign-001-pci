@@ -47,7 +47,7 @@ AMD HD 6570 PCIe </br>
 drivers 14.4 for Xp 32-Bits on Windows7x32, </br>
 drivers 14.4 for W7 32-Bits, HDMI Audio does Not work. </br>
 No W7 driver has HDMI audio, v15 v16 </br>
-Vista driver does Not work. </p>
+Vista driver does Not work on W7x32. </p>
 
 XP works Ok with 4K UHD TVs, 
 W7x32 dissabled that feature, Only works FullHD. </br>
