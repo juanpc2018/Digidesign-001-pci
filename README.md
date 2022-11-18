@@ -42,7 +42,8 @@ http://fx-max.com/purchase.html </br>
 http://fx-max.com/fxt/ </br>
 similar happens with fxpansion VST to RTAS v2.1 adapter, Only works with ProTools9, Not PT10. </p>
 
-Recommended GPU: AMD HD 6570 PCIe </br>
+Recommended GPU: </br>
+AMD HD 6570 PCIe </br>
 drivers 14.4 for Xp 32-Bits on Windows7x32, </br>
 drivers 14.4 for W7 32-Bits, HDMI Audio does Not work. </br>
 No W7 driver has HDMI audio, v15 v16 </br>
