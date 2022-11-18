@@ -47,7 +47,8 @@ XP works Ok with 4K UHD TVs,
 W7x32 dissabled that feature, Only works FullHD. </br>
 problem is related to ACPI, AHCI / MPS Tables v1.4 v1.1 </br>
 tested same XP with HD6590 pcie on X58 board and did Not worked also. </br>
-Older was better designed, dont know why they changed/damaged that. </p>
+Older was better designed, dont know why they changed/damaged that, </br>
+probably wanted more profits damage to sell again. </p>
 
 Vienna Ensemble Pro 5 allows to use newer plugins in other faster machines, </br>
 2 machine setup works ok direct 1Gbe FullDuplex, fixed IPv4. </br>
