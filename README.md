@@ -46,7 +46,7 @@ Vista driver does Not work. </p>
 XP works Ok with 4K UHD TVs, 
 W7x32 dissabled that feature, Only works FullHD. </br>
 problem is related to ACPI, AHCI / MPS Tables v1.4 v1.1 </br>
-tested same XP with HD6590 pcie on X58 board and did Not worked also. </br>
+tested same XP with same HD6590 pcie on X58 board and did Not worked 4k. </br>
 Older was better designed, dont know why they changed/damaged that, </br>
 probably wanted more profits "damage to sell again." </p>
 
