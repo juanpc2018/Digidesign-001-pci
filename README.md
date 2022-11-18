@@ -73,3 +73,5 @@ Area51 blog has an Optional Bios that allows to Overclock some AMD Opteron board
 Maybe Tyan boards like S8232 would require an older Bios FW that allows to change MPS tables 1.4 to 1.1 Untested. </br>
 Older intel Q6600 775 and AMD Opteron 61xx does Not have SSE4.1 instructions, required for newer multimedia software, example: Avid MediaComposer v8.4</br>
 Proxmox and QEMU allow PCI passthough, but untested. </p>
+
+IF you want the Best MIDI, old AtariSTfm still the best. </p>
