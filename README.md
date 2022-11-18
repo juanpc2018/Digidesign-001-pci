@@ -1,12 +1,12 @@
 ### Digidesign-001-pci aka Digi001
 
-Its an old pci audio interface, standard Rack Mount Configuration, <>/br
+Its an old pci audio interface, standard Rack Mount Configuration, </br>
 2-Mic pres with Hi-Z input +Phantom Power, 8 channel i/o 1/4" TRS, ADAT, S/pdif. </p>
 
 does Not have Alsa drivers, </br>
 but works ok on Windows7x32, and has decent sound. </p>
 
-oldschooldaw.com forum web site is 404, had very important links. </p
+oldschooldaw.com forum web site is 404, had very important links. </p>
 
 the Only way to install Digi001 in Windows7x32 or XPsp3 32-Bit: </br>
 Download ProTools 6.4 LE installer, </p>
