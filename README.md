@@ -8,7 +8,7 @@ this guide is to avoid e-waste. </p>
 
 Digi001 does Not have Alsa drivers, </br>
 but works ok on Windows7x32, and has decent sound. </br>
-does Not have the latest Ultra Low Latency AD/DA ICs from AKM, but works, 48Khz 24-Bit is good enough.</p>
+does Not have the latest Ultra Low Latency AD/DA ICs from AKM, but works, 48Khz 24-Bit is enough.</p>
 
 oldschooldaw.com forum web site is 404, had very important links. </p>
 
