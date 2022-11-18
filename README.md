@@ -1,7 +1,7 @@
 ### Digidesign-001-pci aka Digi001
 
 Its an old pci audio interface, standard Rack Mount Configuration, </br>
-2-Mic pres with Hi-Z input +Phantom Power, 8 channel i/o 1/4" TRS, ADAT, S/pdif. </p>
+2-Mic pres with Hi-Z input +Phantom Power, 8 channel line i/o 1/4" TRS, ADAT, S/pdif. </p>
 
 does Not have Alsa drivers, </br>
 but works ok on Windows7x32, and has decent sound. </p>
