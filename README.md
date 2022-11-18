@@ -23,7 +23,7 @@ W7x32 needs to install with Compatibility mode: WinXPsp3, </p>
 Only works in Windows 32-Bit, No 64-Bit = 4GB RAM max. </br>
 havent Tested ReactOS, but should work ok. https://reactos.org/ </p>
 
-Only intel 975x boards work, i tested X58, tweaked almost everything, </br>
+Only intel 975x boards work, tested X58, tweaked almost everything, </br>
 problem is related to ACPI, AHCI / MPS Tables v1.4 v1.1 </br>
 There was a strange change between 975x and X58 boards, XP and W7. </br>
 for example: </br>
