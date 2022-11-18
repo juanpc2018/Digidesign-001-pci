@@ -20,7 +20,7 @@ Digi001 has ASIO drivers v6.1.1, v6.4 and v6.7 maybe 6,9 </p>
 Only v6.4 work, </br>
 W7x32 needs to install with Compatibility mode: WinXPsp3, </p>
 
-Only works in Windows 32-Bit, No 64-Bit. </br>
+Only works in Windows 32-Bit, No 64-Bit = 4GB RAM max. </br>
 havent Tested ReactOS, but should work ok. https://reactos.org/ </p>
 
 Only intel 975x boards work, i tested X58, tweaked almost everything, </br>
